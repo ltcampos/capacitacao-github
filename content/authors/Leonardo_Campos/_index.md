@@ -1,12 +1,12 @@
 ---
-role: Seu Nome 
+role: Leonardo Talavera Campos
 weight: 18
-email: "seuemail@email.com"
+email: "leonardo.campos@ifc.edu.br"
 interests:
--
--
--
--
+- Bioestatística
+- Melhoramento Genético
+- Fenotipagem de Alto Rendimento
+- Estatística Experimental
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
@@ -33,7 +33,7 @@ social:
   link: seu linkedin # se você não tem exclua isso tudo
   
 user_groups:
-- Estudantes de Graduação
+- Estudantes de Pós-Graduação
 ---
 
 DESCRIÇÃO DE ATÉ 10 LINHAS
